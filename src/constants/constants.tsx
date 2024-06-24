@@ -1,0 +1,1 @@
+export const baseUrl="https://restaurant-listing-backend-f2me.onrender.com";
